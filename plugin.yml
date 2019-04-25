@@ -1,0 +1,12 @@
+name: AntiCheat
+author: Vorion
+main: fr.vorion.anticheat.AntiCheat
+description: A powerful anti-cheat made for ZKPlayers by a ZKPlayer
+version: 1.0
+commands:
+  verif:
+    permission: anticheat.verif
+  alert:
+    permission: anticheat.alert
+  freeze:
+    permission: anticheat.freeze
